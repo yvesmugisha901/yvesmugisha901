@@ -1,14 +1,14 @@
-# Hey, I'm Mugisha Yves 👋
-💻 Software Engineer | AI Enthusiast  
-🚀 I build scalable, secure, and real-world systems that solve meaningful problems  
-📍 Kigali, Rwanda  
+# Hey, I'm Mugisha Yves 
+ Software Engineer | AI Enthusiast  
+ I build scalable, secure, and real-world systems that solve meaningful problems  
+ Kigali, Rwanda  
 ---
-## 🧠 About Me
+##  About Me
 I am a full-stack developer focused on designing and building reliable systems with real-world impact.  
 I enjoy working across the stack — from clean UI interfaces to scalable backend architectures and deployment pipelines.
 ---
-## 🔥 Featured Projects
-### 🛒 Fasha Market (E-commerce Platform)
+##  Featured Projects
+###  Fasha Market (E-commerce Platform)
 A secure e-commerce platform solving the problem of untrusted online marketplaces by enforcing verified sellers, agreements, and buyer protection.
 🔗 Live Demo: http://fashamarket.vercel.app/
 **Key Features:**
@@ -24,7 +24,7 @@ A secure e-commerce platform solving the problem of untrusted online marketplace
 - Media: Cloudinary  
 - SEO Optimization (robots.txt included)  
 ---
-### 🏥 Healthcare Appointment System
+###  Healthcare Appointment System
 A system designed to reduce hospital queues and delays by allowing patients to book appointments and track doctor availability.
 **Key Features:**
 - Online appointment booking  
@@ -35,9 +35,9 @@ A system designed to reduce hospital queues and delays by allowing patients to b
 - Backend: PHP  
 - API: Axios  
 ---
-🚧 More high-impact projects coming soon...
+ More high-impact projects coming soon...
 ---
-## 🛠 Tech Stack
+##  Tech Stack
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -63,17 +63,17 @@ A system designed to reduce hospital queues and delays by allowing patients to b
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-green?style=for-the-badge)
 ---
-## 📈 Currently Learning
+##  Currently Learning
 - Artificial Intelligence & Machine Learning  
 - DevOps (CI/CD, Docker, system reliability)  
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Yves's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvesmugisha901&show_icons=true)
 ---
-## 🌐 Portfolio & Contact
-🌍 Portfolio: https://yvesmugisha.vercel.app/  
-📧 Email: yvesmugisha901@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/mugisha-yves-3ba662302/  
+##  Portfolio & Contact
+ Portfolio: https://yvesmugisha.vercel.app/  
+ Email: yvesmugisha901@gmail.com  
+ LinkedIn: https://www.linkedin.com/in/mugisha-yves-3ba662302/  
 ---
-## ⚡ Vision
+##  Vision
 I am focused on becoming a high-level engineer who builds systems that are not only functional, but scalable, secure, and impactful.
